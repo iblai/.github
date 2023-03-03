@@ -1,7 +1,8 @@
 ## [ibleducation.com](https://ibleducation.com)
 AI-driven skills and analytics learning platforms for the world's largest organizations based in New York, NY.
 
-* Amazon Web Services: https://aws.amazon.com/marketplace/seller-profile?id=824b8600-b332-417d-b259-550630b627d8
+* AWS Marketplace: https://aws.amazon.com/marketplace/seller-profile?id=824b8600-b332-417d-b259-550630b627d8
+* AWS Elastic Container Registry: https://gallery.ecr.aws/ibleducation
 * Open edX: https://openedx.org/marketplace/ibl-education
 * Contact: partner@ibleducation.com
 
