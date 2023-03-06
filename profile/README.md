@@ -1,9 +1,29 @@
 ## [ibleducation.com](https://ibleducation.com)
 AI-driven skills and analytics learning platforms for the world's largest organizations based in New York, NY.
 
-* AWS Marketplace: https://aws.amazon.com/marketplace/seller-profile?id=824b8600-b332-417d-b259-550630b627d8
-* AWS Elastic Container Registry: https://gallery.ecr.aws/ibleducation
-* Open edX: https://openedx.org/marketplace/ibl-education
-* Contact: partner@ibleducation.com
+* partner@ibleducation.com
+* https://twitter.com/ibleducation
 
-[<img width="100%" alt="AWS IBL AI Mentor" src="https://user-images.githubusercontent.com/4607838/219095657-0aaa4f0b-643f-4428-b4af-246b503cdad8.png" href="https://aws.amazon.com/marketplace/pp/prodview-bz6um4yt6m7ay?sr=0-2&ref_=beagle&applicationId=AWSMPContessa">](https://aws.amazon.com/marketplace/pp/prodview-bz6um4yt6m7ay?sr=0-2&ref_=beagle&applicationId=AWSMPContessa)
+### [AWS Partner](https://aws.amazon.com/marketplace/seller-profile?id=824b8600-b332-417d-b259-550630b627d8)
+
+| Product | Description |
+| -------- | -------- |
+| [IBL AI Mentor](https://aws.amazon.com/marketplace/pp/prodview-bz6um4yt6m7ay) | AI-driven mentor trained on your custom knowledge base to answer any questions in natural language, real-time and 24/7. |
+| [IBL Platform Enterprise](https://aws.amazon.com/marketplace/pp/prodview-ugkubjl4fgurm) | AI-driven skills learning platform built on the best-in-class open source platforms including Open edX. |
+| [IBL Analytics Enterprise](https://aws.amazon.com/marketplace/pp/prodview-3oqgyocy7qrf2) | AI-driven learning analytics platform built on Apache Kafka and leading large-language models (LLMs). |
+
+### [Open edX Partner](https://openedx.org/marketplace/ibl-education)
+
+| Feature | Description |
+| -------- | -------- |
+| Content authoring and search engine | courses, programs, pathways and external resources |
+| Chatbots | empower AI mentors via large language models such as ChatGPT |
+| Credentials | certificates of completion, mastery, micro-credentials and badges |
+| Analytics | descriptive and predictive engagement, performance, financial, skills and web data |
+| Monetization | sell one-time and subscription products |
+| Social network | establish learning communities for career advancement |
+| Custom integrations | UI/UX, data and integrations |
+
+### [Elastic Container Registry](https://gallery.ecr.aws/ibleducation)
+
+Find our [ibl-edx-ce](https://gallery.ecr.aws/ibleducation/ibl-edx-ce), [ibl-web-ce](https://gallery.ecr.aws/ibleducation/ibl-web-ce), [ibl-postgres-ce](https://gallery.ecr.aws/ibleducation/ibl-postgres-ce) and more community edition containers at [gallery.ecr.aws/ibleducation](https://gallery.ecr.aws/ibleducation)
