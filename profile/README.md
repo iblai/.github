@@ -1,31 +1,34 @@
 ## [ibleducation.com](https://ibleducation.com)
-AI-driven skills and analytics learning platforms for the world's largest organizations based in New York, NY.
 
-* partner@ibleducation.com
-* https://twitter.com/ibleducation
+AI-driven mentor, skills and analytics learning platforms for the world's largest organizations based in New York, NY.
 
-<p>&nbsp;</p>
+https://cloud.google.com/blog/topics/public-sector/ibl-educations-genai-based-chat-mentor-google
 
-[<img style="width: 20%" src="https://ibleducation.com/wp-content/themes/ibl-web-ibleducation-theme/img/Google_2015_logo.svg.png" href="https://cloud.google.com/blog/topics/public-sector/ibl-educations-genai-based-chat-mentor-google">](https://cloud.google.com/blog/topics/public-sector/ibl-educations-genai-based-chat-mentor-google)
+https://aws.amazon.com/marketplace/seller-profile?id=824b8600-b332-417d-b259-550630b627d8
 
-IBL Education’s GenAI-based chat mentor with Google: <br>
-* [https://cloud.google.com/blog/topics/public-sector/ibl-educations-genai-based-chat-mentor-google](https://cloud.google.com/blog/topics/public-sector/ibl-educations-genai-based-chat-mentor-google)
+https://openedx.org/marketplace/ibl-education/
+
+Join us at partner@ibleducation.com
 
 <p>&nbsp;</p>
 
 [<img style="width: 20%" src="https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2023/02/16/aws_bp_primarylogo_01.png" href="https://aws.amazon.com/marketplace/seller-profile?id=824b8600-b332-417d-b259-550630b627d8">](https://aws.amazon.com/marketplace/seller-profile?id=824b8600-b332-417d-b259-550630b627d8)
 
+https://aws.amazon.com/marketplace/seller-profile?id=824b8600-b332-417d-b259-550630b627d8
+
 | Product | Description |
 | -------- | -------- |
 | [IBL AI Mentor](https://aws.amazon.com/marketplace/pp/prodview-bz6um4yt6m7ay) | AI-driven mentor trained on your custom knowledge base to answer any questions in natural language, real-time and 24/7. |
-| [IBL Platform Enterprise](https://aws.amazon.com/marketplace/pp/prodview-ugkubjl4fgurm) | AI-driven skills learning platform built on the best-in-class open source platforms including Open edX. |
-| [IBL Analytics Enterprise](https://aws.amazon.com/marketplace/pp/prodview-3oqgyocy7qrf2) | AI-driven learning analytics platform built on Apache Kafka and leading large-language models (LLMs). |
+| [IBL AI Skills](https://aws.amazon.com/marketplace/pp/prodview-ugkubjl4fgurm) | AI-driven skills learning platform built on the best-in-class open source platforms including Open edX. |
+| [IBL AI Analytics](https://aws.amazon.com/marketplace/pp/prodview-3oqgyocy7qrf2) | AI-driven learning analytics platform built on Apache Kafka and leading large-language models (LLMs). |
 
 Find our [ibl-edx-ce](https://gallery.ecr.aws/ibleducation/ibl-edx-ce), [ibl-web-ce](https://gallery.ecr.aws/ibleducation/ibl-web-ce), [ibl-postgres-ce](https://gallery.ecr.aws/ibleducation/ibl-postgres-ce) and more community edition containers at [gallery.ecr.aws/ibleducation](https://gallery.ecr.aws/ibleducation)
 
 <p>&nbsp;</p>
 
 [<img style="width: 20%" src="https://global.discourse-cdn.com/business7/uploads/openedx/original/2X/2/2a79d562b3cd0029404d770e12ccd04716c720a9.png" href="https://openedx.org/marketplace/ibl-education">](https://openedx.org/marketplace/ibl-education)
+
+https://openedx.org/marketplace/ibl-education/
 
 | Feature | Description |
 | -------- | -------- |
