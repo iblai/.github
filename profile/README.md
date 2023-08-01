@@ -2,11 +2,9 @@
 
 AI-driven mentor, skills and analytics learning platforms for the world's largest organizations based in New York, NY.
 
-https://cloud.google.com/blog/topics/public-sector/ibl-educations-genai-based-chat-mentor-google
-
-https://aws.amazon.com/marketplace/seller-profile?id=824b8600-b332-417d-b259-550630b627d8
-
-https://openedx.org/marketplace/ibl-education/
+* https://cloud.google.com/blog/topics/public-sector/ibl-educations-genai-based-chat-mentor-google
+* https://aws.amazon.com/marketplace/seller-profile?id=824b8600-b332-417d-b259-550630b627d8
+* https://openedx.org/marketplace/ibl-education/
 
 Join us at partner@ibleducation.com
 
