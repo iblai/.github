@@ -1,4 +1,4 @@
-## [ibleducation.com](https://ibleducation.com)
+## [ibl.ai](https://ibl.ai)
 
 AI-driven mentor, skills and analytics learning platforms for the world's largest organizations based in New York, NY.
 
