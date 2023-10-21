@@ -6,7 +6,7 @@ AI-driven mentor, skills and analytics learning platforms for the world's larges
 * https://aws.amazon.com/marketplace/seller-profile?id=824b8600-b332-417d-b259-550630b627d8
 * https://openedx.org/marketplace/ibl-education/
 
-Join us at partner@ibleducation.com
+Join us at partner@ibl.ai
 
 <p>&nbsp;</p>
 
