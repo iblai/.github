@@ -1,39 +1,17 @@
-## [ibl.ai](https://ibl.ai)
+## Hey 👋! We're [ibl.ai](https://ibl.ai)
 
-AI-driven mentor, skills and analytics learning platforms for the world's largest organizations based in New York, NY.
+[<img src="https://github.com/iblai/.github/assets/4607838/626b820e-819e-4eac-b5de-1f021514d46f" href="https://ibl.ai">](https://ibl.ai)
 
-* https://cloud.google.com/blog/topics/public-sector/ibl-educations-genai-based-chat-mentor-google
-* https://aws.amazon.com/marketplace/seller-profile?id=824b8600-b332-417d-b259-550630b627d8
-* https://openedx.org/marketplace/ibl-education/
+We deliver generative AI for teaching and learning. Based in New York.
+
+Leading universities, companies and governments build their gen AI education platforms on our [REST API](https://api.ibl.ai) and [web and native mobile apps](https://ibl.ai).
+
+Our platform is designed for creating and managing AI agents, personalized tutoring, analytics, content authoring and student success.
+
+No vendor lock-in whatsoever: **fully own your code, data and LLMs**.
 
 Join us at partner@ibl.ai
 
-<p>&nbsp;</p>
+[<img src="https://github.com/iblai/.github/assets/4607838/35bcff5d-d456-4d2d-b2ee-7a1bd4713cb2" href="https://aws.amazon.com/marketplace/seller-profile?id=824b8600-b332-417d-b259-550630b627d8">](https://aws.amazon.com/marketplace/seller-profile?id=824b8600-b332-417d-b259-550630b627d8)
 
-[<img style="width: 20%" src="https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2023/02/16/aws_bp_primarylogo_01.png" href="https://aws.amazon.com/marketplace/seller-profile?id=824b8600-b332-417d-b259-550630b627d8">](https://aws.amazon.com/marketplace/seller-profile?id=824b8600-b332-417d-b259-550630b627d8)
-
-https://aws.amazon.com/marketplace/seller-profile?id=824b8600-b332-417d-b259-550630b627d8
-
-| Product | Description |
-| -------- | -------- |
-| [IBL AI Mentor](https://aws.amazon.com/marketplace/pp/prodview-bz6um4yt6m7ay) | AI-driven mentor trained on your custom knowledge base to answer any questions in natural language, real-time and 24/7. |
-| [IBL AI Skills](https://aws.amazon.com/marketplace/pp/prodview-ugkubjl4fgurm) | AI-driven skills learning platform built on the best-in-class open source platforms including Open edX. |
-| [IBL AI Analytics](https://aws.amazon.com/marketplace/pp/prodview-3oqgyocy7qrf2) | AI-driven learning analytics platform built on Apache Kafka and leading large-language models (LLMs). |
-
-Find our [ibl-edx-ce](https://gallery.ecr.aws/ibleducation/ibl-edx-ce), [ibl-web-ce](https://gallery.ecr.aws/ibleducation/ibl-web-ce), [ibl-postgres-ce](https://gallery.ecr.aws/ibleducation/ibl-postgres-ce) and more community edition containers at [gallery.ecr.aws/ibleducation](https://gallery.ecr.aws/ibleducation)
-
-<p>&nbsp;</p>
-
-[<img style="width: 20%" src="https://global.discourse-cdn.com/business7/uploads/openedx/original/2X/2/2a79d562b3cd0029404d770e12ccd04716c720a9.png" href="https://openedx.org/marketplace/ibl-education">](https://openedx.org/marketplace/ibl-education)
-
-https://openedx.org/marketplace/ibl-education/
-
-| Feature | Description |
-| -------- | -------- |
-| Content authoring and search engine | courses, programs, pathways and external resources |
-| Chatbots | empower AI mentors via large language models such as ChatGPT |
-| Credentials | certificates of completion, mastery, micro-credentials and badges |
-| Analytics | descriptive and predictive engagement, performance, financial, skills and web data |
-| Monetization | sell one-time and subscription products |
-| Social network | establish learning communities for career advancement |
-| Custom integrations | UI/UX, data and integrations |
+[<img src="https://github.com/iblai/.github/assets/4607838/66434d0b-3726-453e-8b8e-e5deaa60cf8f" href="https://cloud.google.com/blog/topics/public-sector/ibl-educations-genai-based-chat-mentor-google">](https://cloud.google.com/blog/topics/public-sector/ibl-educations-genai-based-chat-mentor-google)
