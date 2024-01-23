@@ -6,7 +6,7 @@ We democratize generative AI for teaching and learning.
 
 Our platform provides educators with [one-click agent, skills and analytics apps](https://ibl.ai) for one-to-one tutoring, content creation, predictive analytics and student success.
 
-It consists of a solid [REST API with SDKs for Python, Javascript and Flutter](https://api.ibl.ai) that you can use to **engineer your own apps**.
+It consists of a scalable [REST API with SDKs for Python, Javascript and Flutter](https://api.ibl.ai) that you can use to **engineer your own apps**.
 
 No vendor lock-in whatsoever: **fully own your code, data and LLMs**.
 
