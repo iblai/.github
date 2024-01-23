@@ -2,13 +2,15 @@
 
 [<img src="https://github.com/iblai/.github/assets/4607838/626b820e-819e-4eac-b5de-1f021514d46f" href="https://ibl.ai">](https://ibl.ai)
 
-We deliver generative AI for teaching and learning. Based in New York.
+We democratize generative AI for teaching and learning.
 
-Leading universities, companies and governments build their gen AI education platforms on our [REST API](https://api.ibl.ai) and [web and native mobile apps](https://ibl.ai).
+Our platform provides educators with [one-click agent, skills and analytics apps](https://ibl.ai) for one-to-one tutoring, content creation, predictive analytics and student success.
 
-Our platform is designed for creating and managing AI agents, personalized tutoring, analytics, content authoring and student success.
+It consists of a solid [REST API with SDKs for Python, Javascript and Flutter](https://api.ibl.ai) that you can use to **engineer your own apps**.
 
 No vendor lock-in whatsoever: **fully own your code, data and LLMs**.
+
+Available via SaaS as well as on-premise.
 
 Join us at partner@ibl.ai
 
