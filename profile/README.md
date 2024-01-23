@@ -10,7 +10,7 @@ It consists of a scalable [REST API with SDKs for Python, Javascript and Flutter
 
 No vendor lock-in whatsoever: **fully own your code, data and LLMs**.
 
-Available via SaaS as well as on-premise.
+Available via usage-based SaaS as well as on-premise.
 
 Join us at partner@ibl.ai
 
