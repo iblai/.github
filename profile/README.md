@@ -40,6 +40,15 @@ Integrates with Canvas, D2L Brightspace, Blackboard, and Moodle.
 
 ### Featured Open Source
 
+#### [`iblai-claw-agents`](https://github.com/iblai/iblai-claw-agents) — Claw Agents
+
+48 pre-built agent configurations for OpenClaw instances, organized by vertical — higher education, enterprise, K-12, and small business. Each agent is a workspace-ready set of configuration files that can be pushed to a claw instance via the ibl.ai platform API.
+
+![OpenClaw](https://img.shields.io/badge/OpenClaw-0057FF?style=flat-square)
+![NemoClaw](https://img.shields.io/badge/NemoClaw-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![48 Agents](https://img.shields.io/badge/48_Agents-DC2626?style=flat-square)
+![4 Verticals](https://img.shields.io/badge/4_Verticals-6B21A8?style=flat-square)
+
 #### [`iblai-claw-setup`](https://github.com/iblai/iblai-claw-setup) — Claw Setup
 
 Connect self-hosted claw servers (OpenClaw, NVIDIA NemoClaw) to the ibl.ai platform. Run your own AI agent infrastructure and manage it through ibl.ai's APIs and applications.
