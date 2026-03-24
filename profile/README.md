@@ -40,6 +40,15 @@ Integrates with Canvas, D2L Brightspace, Blackboard, and Moodle.
 
 ### Featured Open Source
 
+#### [`iblai-claw-setup`](https://github.com/iblai/iblai-claw-setup) — Claw Setup
+
+Connect self-hosted claw servers (OpenClaw, NVIDIA NemoClaw) to the ibl.ai platform. Run your own AI agent infrastructure and manage it through ibl.ai's APIs and applications.
+
+![OpenClaw](https://img.shields.io/badge/OpenClaw-0057FF?style=flat-square)
+![NemoClaw](https://img.shields.io/badge/NemoClaw-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white)
+![License: MIT](https://img.shields.io/badge/License-MIT-22C55E?style=flat-square)
+
 #### [`iblai-infra-cli`](https://github.com/iblai/iblai-infra-cli) — Infrastructure CLI
 
 Interactive CLI for provisioning and configuring the ibl.ai platform on AWS. Handles end-to-end infrastructure creation with Terraform and full application setup with Ansible. Can also bootstrap existing servers (any cloud or bare metal) without Terraform.
