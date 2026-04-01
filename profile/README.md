@@ -9,6 +9,8 @@ Agentic AI under your control. You own the code and data for privacy, safety and
 ![SOC2 & FERPA](https://img.shields.io/badge/SOC2_%26_FERPA-16A34A?style=for-the-badge)
 ![Code & Data Ownership](https://img.shields.io/badge/Code_%26_Data_Ownership-DC2626?style=for-the-badge)
 
+> **Note:** Some repositories in this organization are open source, while others contain proprietary platform code. Access to ibl.ai Docker images and the full platform codebase requires a license. To get started, reach out to our team at [ibl.ai/contact](https://ibl.ai/contact).
+
 ---
 
 ### Deploy AI agents and applications — your code, your data, zero wait time.
@@ -39,6 +41,16 @@ Integrates with Canvas, D2L Brightspace, Blackboard, and Moodle.
 ---
 
 ### Featured Open Source
+
+#### [`vibe`](https://github.com/iblai/vibe) — Vibe
+
+Developer toolkit for vibe coding AI-powered apps with the ibl.ai platform. Production-ready scaffold with authentication, AI chat, profiles, analytics, and Claude Code skills — backend included via iblai.app. Ships to web, desktop, and mobile.
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=flat-square)
+![License: MIT](https://img.shields.io/badge/License-MIT-22C55E?style=flat-square)
 
 #### [`iblai-claw-agents`](https://github.com/iblai/iblai-claw-agents) — Claw Agents
 
