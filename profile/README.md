@@ -2,11 +2,13 @@
 
 ### Your Organization's AI, Under Your Control
 
-A full-fledged AI operating system to create unlimited agents, autonomous initiatives and applications — supported by our AI transformation team.
+A full-fledged AI operating system to create unlimited agents, autonomous initiatives and applications — supported by our AI transformation team. LLM-agnostic agents for tutoring, advising, content creation, and operations. Works with OpenAI, Google Gemini, open models like LLaMA, and more.
 
 **[Get Started Free](https://mentorai.iblai.app/)** · **[Deploy in Your Servers](https://ibl.ai/contact)**
 
-**Your Code. Your Data.** Full ownership, zero vendor lock-in · **Any LLM, Your Choice.** Works with all major providers · **85% Lower Cost** at scale · **AI Transformation.** Pre-existing and custom agents.
+**1.6M+ Users** · **400+ Organizations** · **85% Lower Cost at Scale** · **Zero Vendor Lock-in**
+
+**Your Code. Your Data.** Full codebase and data ownership from day one · **Any LLM, Your Choice.** Works with all major providers · **AI Transformation.** Pre-existing and custom agents.
 
 ![AI Operating System](https://img.shields.io/badge/AI_Operating_System-0057FF?style=for-the-badge)
 ![LLM Agnostic](https://img.shields.io/badge/LLM_Agnostic-6B21A8?style=for-the-badge)
@@ -14,6 +16,8 @@ A full-fledged AI operating system to create unlimited agents, autonomous initia
 ![Code & Data Ownership](https://img.shields.io/badge/Code_%26_Data_Ownership-DC2626?style=for-the-badge)
 
 > **Note:** Everything here is available fully hosted at [ibl.ai](https://ibl.ai). We also provide partners with the complete platform codebase — run it on your own infrastructure, any cloud or on-premise. To get started, reach out at [ibl.ai/contact](https://ibl.ai/contact).
+
+Trusted by Google, Syracuse University, Microsoft, NVIDIA, Kaplan, SUNY, Morehouse College and many more.
 
 ---
 
@@ -33,13 +37,7 @@ A full-fledged AI operating system to create unlimited agents, autonomous initia
 
 ---
 
-### Deploy AI agents and applications — your code, your data, zero wait time.
-
-LLM-agnostic AI agents for tutoring, advising, content creation, and operations. Full codebase and data ownership from day one. Works with OpenAI, Google Gemini, open models like LLaMA, and more.
-
-**1.6M+ Users** · **400+ Organizations** · **85% Lower Cost at Scale** · **Zero Vendor Lock-in**
-
-Trusted by Google, Syracuse University, Microsoft, NVIDIA, Kaplan, SUNY, Morehouse College and many more.
+### Products
 
 <table>
 <tr>
