@@ -4,12 +4,14 @@
 
 Agentic AI under your control. You own the code and data for privacy, safety and security. Backed by excellent support. Serving 1.6M+ users across 400+ organizations.
 
+**[Architecture](https://ibl.ai/architecture)** · **[Build vs Buy](https://ibl.ai/build-vs-buy)** · **[How It Works](https://ibl.ai/how-it-works)**
+
 ![AI Operating System](https://img.shields.io/badge/AI_Operating_System-0057FF?style=for-the-badge)
 ![LLM Agnostic](https://img.shields.io/badge/LLM_Agnostic-6B21A8?style=for-the-badge)
 ![SOC2 & FERPA](https://img.shields.io/badge/SOC2_%26_FERPA-16A34A?style=for-the-badge)
 ![Code & Data Ownership](https://img.shields.io/badge/Code_%26_Data_Ownership-DC2626?style=for-the-badge)
 
-> **Note:** Some repositories in this organization are open source, while others contain proprietary platform code. Access to ibl.ai Docker images and the full platform codebase requires a license. To get started, reach out to our team at [ibl.ai/contact](https://ibl.ai/contact).
+> **Note:** Everything here is available fully hosted at [ibl.ai](https://ibl.ai). We also provide partners with the complete platform codebase — run it on your own infrastructure, any cloud or on-premise. To get started, reach out at [ibl.ai/contact](https://ibl.ai/contact).
 
 ---
 
