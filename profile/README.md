@@ -1,8 +1,12 @@
 ## [ibl.ai](https://ibl.ai) – AI Operating System
 
-[<img src="https://github.com/iblai/.github/assets/4607838/626b820e-819e-4eac-b5de-1f021514d46f" href="https://ibl.ai">](https://ibl.ai)
+### Your Organization's AI, Under Your Control
 
-Agentic AI under your control. You own the code and data for privacy, safety and security. Backed by excellent support. Serving 1.6M+ users across 400+ organizations.
+A full-fledged AI operating system to create unlimited agents, autonomous initiatives and applications — supported by our AI transformation team.
+
+**[Get Started Free](https://mentorai.iblai.app/)** · **[Deploy in Your Servers](https://ibl.ai/contact)**
+
+**Your Code. Your Data.** Full ownership, zero vendor lock-in · **Any LLM, Your Choice.** Works with all major providers · **85% Lower Cost** at scale · **AI Transformation.** Pre-existing and custom agents.
 
 ![AI Operating System](https://img.shields.io/badge/AI_Operating_System-0057FF?style=for-the-badge)
 ![LLM Agnostic](https://img.shields.io/badge/LLM_Agnostic-6B21A8?style=for-the-badge)
