@@ -4,8 +4,6 @@
 
 Agentic AI under your control. You own the code and data for privacy, safety and security. Backed by excellent support. Serving 1.6M+ users across 400+ organizations.
 
-**[Architecture](https://ibl.ai/architecture)** · **[Build vs Buy](https://ibl.ai/build-vs-buy)** · **[How It Works](https://ibl.ai/how-it-works)**
-
 ![AI Operating System](https://img.shields.io/badge/AI_Operating_System-0057FF?style=for-the-badge)
 ![LLM Agnostic](https://img.shields.io/badge/LLM_Agnostic-6B21A8?style=for-the-badge)
 ![SOC2 & FERPA](https://img.shields.io/badge/SOC2_%26_FERPA-16A34A?style=for-the-badge)
@@ -39,6 +37,22 @@ Trusted by Google, Syracuse University, Microsoft, NVIDIA, Kaplan, SUNY, Morehou
 </table>
 
 Integrates with Canvas, D2L Brightspace, Blackboard, and Moodle.
+
+---
+
+### Get Started
+
+<table>
+<tr>
+<td><strong><a href="https://ibl.ai/architecture">Architecture</a></strong><br/>See how the platform is structured — microservices, AI agent orchestration, data pipelines, and infrastructure. Useful if you're evaluating how ibl.ai fits into your existing stack.</td>
+</tr>
+<tr>
+<td><strong><a href="https://ibl.ai/build-vs-buy">Build vs Buy</a></strong><br/>A breakdown of what it takes to build an AI learning platform from scratch versus adopting ibl.ai. Covers cost, time-to-market, compliance, and long-term maintenance.</td>
+</tr>
+<tr>
+<td><strong><a href="https://ibl.ai/how-it-works">How It Works</a></strong><br/>Walk through the platform end to end — from deploying your first AI agent to managing users, analytics, and integrations across your organization.</td>
+</tr>
+</table>
 
 ---
 
