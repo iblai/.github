@@ -13,6 +13,22 @@ Agentic AI under your control. You own the code and data for privacy, safety and
 
 ---
 
+### Get Started
+
+<table>
+<tr>
+<td><strong><a href="https://ibl.ai/architecture">Architecture</a></strong><br/>See how the platform is structured — microservices, AI agent orchestration, data pipelines, and infrastructure. Useful if you're evaluating how ibl.ai fits into your existing stack.</td>
+</tr>
+<tr>
+<td><strong><a href="https://ibl.ai/build-vs-buy">Build vs Buy</a></strong><br/>A breakdown of what it takes to build an AI learning platform from scratch versus adopting ibl.ai. Covers cost, time-to-market, compliance, and long-term maintenance.</td>
+</tr>
+<tr>
+<td><strong><a href="https://ibl.ai/how-it-works">How It Works</a></strong><br/>Walk through the platform end to end — from deploying your first AI agent to managing users, analytics, and integrations across your organization.</td>
+</tr>
+</table>
+
+---
+
 ### Deploy AI agents and applications — your code, your data, zero wait time.
 
 LLM-agnostic AI agents for tutoring, advising, content creation, and operations. Full codebase and data ownership from day one. Works with OpenAI, Google Gemini, open models like LLaMA, and more.
@@ -37,22 +53,6 @@ Trusted by Google, Syracuse University, Microsoft, NVIDIA, Kaplan, SUNY, Morehou
 </table>
 
 Integrates with Canvas, D2L Brightspace, Blackboard, and Moodle.
-
----
-
-### Get Started
-
-<table>
-<tr>
-<td><strong><a href="https://ibl.ai/architecture">Architecture</a></strong><br/>See how the platform is structured — microservices, AI agent orchestration, data pipelines, and infrastructure. Useful if you're evaluating how ibl.ai fits into your existing stack.</td>
-</tr>
-<tr>
-<td><strong><a href="https://ibl.ai/build-vs-buy">Build vs Buy</a></strong><br/>A breakdown of what it takes to build an AI learning platform from scratch versus adopting ibl.ai. Covers cost, time-to-market, compliance, and long-term maintenance.</td>
-</tr>
-<tr>
-<td><strong><a href="https://ibl.ai/how-it-works">How It Works</a></strong><br/>Walk through the platform end to end — from deploying your first AI agent to managing users, analytics, and integrations across your organization.</td>
-</tr>
-</table>
 
 ---
 
