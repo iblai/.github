@@ -80,24 +80,6 @@ Interactive CLI for provisioning and configuring the ibl.ai platform on AWS. Han
 ![Python 3.11+](https://img.shields.io/badge/Python_3.11+-3776AB?style=flat-square&logo=python&logoColor=white)
 ![License: MIT](https://img.shields.io/badge/License-MIT-22C55E?style=flat-square)
 
-#### [`os`](https://github.com/iblai/os) — Agentic OS
-
-Create and deploy customizable AI agents with support for multiple LLM providers, real-time chat, voice, document training, analytics, user management, SSO authentication, and embeddable widgets. Built with React 19, Redux Toolkit, Radix UI, and Tailwind CSS.
-
-![React 19](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![License: MIT](https://img.shields.io/badge/License-MIT-22C55E?style=flat-square)
-
-#### [`lms`](https://github.com/iblai/lms) — Agentic LMS
-
-Skills intelligence platform — discover courses, track competencies, earn credentials, and accelerate workforce development. Built with Next.js 15, React 19, and the ibl.ai SDK.
-
-![Next.js 15](https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React 19](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![License: MIT](https://img.shields.io/badge/License-MIT-22C55E?style=flat-square)
-
 ---
 
 ### Solutions
