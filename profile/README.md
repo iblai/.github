@@ -80,6 +80,24 @@ Interactive CLI for provisioning and configuring the ibl.ai platform on AWS. Han
 ![Python 3.11+](https://img.shields.io/badge/Python_3.11+-3776AB?style=flat-square&logo=python&logoColor=white)
 ![License: MIT](https://img.shields.io/badge/License-MIT-22C55E?style=flat-square)
 
+#### [`iblai-app-cli`](https://github.com/iblai/iblai-app-cli) — App Scaffolding CLI
+
+Interactive CLI for scaffolding ibl.ai frontend applications. Generates production-ready Next.js apps with chat interfaces, authentication, and full integration with the ibl.ai platform SDK. Supports AI-assisted customization via Anthropic or OpenAI.
+
+![Next.js 15](https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React 19](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![License: MIT](https://img.shields.io/badge/License-MIT-22C55E?style=flat-square)
+
+#### [`iblai-claw-setup`](https://github.com/iblai/iblai-claw-setup) — Claw Setup
+
+Connect self-hosted claw servers (OpenClaw, NVIDIA NemoClaw) to the ibl.ai platform. Run your own AI agent infrastructure and manage it through ibl.ai's APIs and applications.
+
+![OpenClaw](https://img.shields.io/badge/OpenClaw-0057FF?style=flat-square)
+![NemoClaw](https://img.shields.io/badge/NemoClaw-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white)
+![License: MIT](https://img.shields.io/badge/License-MIT-22C55E?style=flat-square)
+
 ---
 
 ### Solutions
