@@ -4,7 +4,7 @@
 
 A full-fledged AI operating system to create unlimited agents, autonomous initiatives and applications — supported by our AI transformation team. LLM-agnostic agents for tutoring, advising, content creation, and operations. Works with OpenAI, Google Gemini, open models like LLaMA, and more.
 
-**[Get Started Free](https://mentorai.iblai.app/)** · **[Deploy in Your Servers](https://ibl.ai/contact)**
+**[Get Started Free](https://mentorai.iblai.app/)** · **[Deploy in Your Servers](https://github.com/iblai/iblai-infra-cli)**
 
 **1.6M+ Users** · **400+ Organizations** · **85% Lower Cost at Scale** · **Zero Vendor Lock-in**
 
@@ -70,24 +70,6 @@ Developer toolkit for vibe coding AI-powered apps with the ibl.ai platform. Prod
 ![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=flat-square)
 ![License: MIT](https://img.shields.io/badge/License-MIT-22C55E?style=flat-square)
 
-#### [`iblai-claw-agents`](https://github.com/iblai/iblai-claw-agents) — Claw Agents
-
-48 pre-built agent configurations for OpenClaw instances, organized by vertical — higher education, enterprise, K-12, and small business. Each agent is a workspace-ready set of configuration files that can be pushed to a claw instance via the ibl.ai platform API.
-
-![OpenClaw](https://img.shields.io/badge/OpenClaw-0057FF?style=flat-square)
-![NemoClaw](https://img.shields.io/badge/NemoClaw-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![48 Agents](https://img.shields.io/badge/48_Agents-DC2626?style=flat-square)
-![4 Verticals](https://img.shields.io/badge/4_Verticals-6B21A8?style=flat-square)
-
-#### [`iblai-claw-setup`](https://github.com/iblai/iblai-claw-setup) — Claw Setup
-
-Connect self-hosted claw servers (OpenClaw, NVIDIA NemoClaw) to the ibl.ai platform. Run your own AI agent infrastructure and manage it through ibl.ai's APIs and applications.
-
-![OpenClaw](https://img.shields.io/badge/OpenClaw-0057FF?style=flat-square)
-![NemoClaw](https://img.shields.io/badge/NemoClaw-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white)
-![License: MIT](https://img.shields.io/badge/License-MIT-22C55E?style=flat-square)
-
 #### [`iblai-infra-cli`](https://github.com/iblai/iblai-infra-cli) — Infrastructure CLI
 
 Interactive CLI for provisioning and configuring the ibl.ai platform on AWS. Handles end-to-end infrastructure creation with Terraform and full application setup with Ansible. Can also bootstrap existing servers (any cloud or bare metal) without Terraform.
@@ -96,32 +78,50 @@ Interactive CLI for provisioning and configuring the ibl.ai platform on AWS. Han
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 ![Python 3.11+](https://img.shields.io/badge/Python_3.11+-3776AB?style=flat-square&logo=python&logoColor=white)
+![License: MIT](https://img.shields.io/badge/License-MIT-22C55E?style=flat-square)
 
-#### [`iblai-app-cli`](https://github.com/iblai/iblai-app-cli) — App Scaffolding CLI
+#### [`os`](https://github.com/iblai/os) — Agentic OS
 
-Interactive CLI for scaffolding ibl.ai frontend applications. Generates production-ready Next.js apps with chat interfaces, authentication, and full integration with the ibl.ai platform SDK. Supports AI-assisted customization via Anthropic or OpenAI.
+Create and deploy customizable AI agents with support for multiple LLM providers, real-time chat, voice, document training, analytics, user management, SSO authentication, and embeddable widgets. Built with React 19, Redux Toolkit, Radix UI, and Tailwind CSS.
+
+![React 19](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![License: MIT](https://img.shields.io/badge/License-MIT-22C55E?style=flat-square)
+
+#### [`lms`](https://github.com/iblai/lms) — Agentic LMS
+
+Skills intelligence platform — discover courses, track competencies, earn credentials, and accelerate workforce development. Built with Next.js 15, React 19, and the ibl.ai SDK.
 
 ![Next.js 15](https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React 19](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![License: MIT](https://img.shields.io/badge/License-MIT-22C55E?style=flat-square)
 
-#### [`standard`](https://github.com/iblai/standard) — .iblai Agent File Format
+---
 
-A Markdown-based portable agent definition format. One file captures everything needed to define, share, and load an AI agent — across tools, teams, and platforms. Includes an interactive CLI wizard for building `.iblai` files.
+### Solutions
 
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Standard v1.0](https://img.shields.io/badge/Standard-v1.0-0057FF?style=flat-square)
-![License: MIT](https://img.shields.io/badge/License-MIT-22C55E?style=flat-square)
+Drop-in [OpenClaw](https://github.com/iblai/iblai-claw-setup) / [NemoClaw](https://github.com/NVIDIA/NemoClaw) agent configurations — one repository per industry, each a parent orchestrator plus specialist subagents, ready to deploy on your own claw instance via the ibl.ai platform API.
 
-#### [`iblai-mcp`](https://github.com/iblai/iblai-mcp) — MCP Servers
-
-A collection of Model Context Protocol servers for the ibl.ai platform — analytics, agent creation, agent chat, search, user management, and Canvas LMS integration. Connect from Claude Desktop, Cursor, or Claude Code.
-
-![MCP](https://img.shields.io/badge/MCP-0057FF?style=flat-square)
-![Streamable HTTP](https://img.shields.io/badge/Streamable_HTTP-6B21A8?style=flat-square)
-![7 Servers](https://img.shields.io/badge/7_Servers-DC2626?style=flat-square)
+<table>
+<tr>
+<td>🎓 <strong><a href="https://github.com/iblai/higher-education-agents">Higher Education Agents</a></strong><br/>Campus Assistant + 16 specialists — enrollment, advising, financial aid, retention, and student services.</td>
+<td>🏫 <strong><a href="https://github.com/iblai/k-12-agents">K-12 Agents</a></strong><br/>School Assistant + 12 specialists — tutoring, lesson planning, assessment, and family communication.</td>
+</tr>
+<tr>
+<td>🏢 <strong><a href="https://github.com/iblai/enterprise-agents">Enterprise Agents</a></strong><br/>Workplace Assistant + 12 specialists — knowledge, IT, sales, HR, and operations.</td>
+<td>🏛️ <strong><a href="https://github.com/iblai/government-agents">Government Agents</a></strong><br/>Agency Assistant + 12 specialists — citizen services, compliance, procurement, and constituent comms.</td>
+</tr>
+<tr>
+<td>⚖️ <strong><a href="https://github.com/iblai/legal-agents">Legal Agents</a></strong><br/>Firm Assistant + 12 specialists — case research, contract review, discovery, and docket management.</td>
+<td>💼 <strong><a href="https://github.com/iblai/financial-services-agents">Financial Services Agents</a></strong><br/>Advisory Assistant + 12 specialists — compliance, risk, KYC/AML, and portfolio analysis.</td>
+</tr>
+<tr>
+<td>🏥 <strong><a href="https://github.com/iblai/medical-healthcare-agents">Medical &amp; Healthcare Agents</a></strong><br/>Care Assistant + 12 specialists — clinical support, coding, prior authorization, and care coordination.</td>
+<td>🧩 <strong><a href="https://github.com/iblai/claws">All Segments</a></strong><br/>Umbrella repo aggregating every industry segment as a git submodule.</td>
+</tr>
+</table>
 
 ---
 
