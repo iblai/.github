@@ -60,6 +60,24 @@ Integrates with Canvas, D2L Brightspace, Blackboard, and Moodle.
 
 ### Featured Open Source
 
+#### [`os`](https://github.com/iblai/os) — Agentic OS
+
+The AI operating system for your organization. Create and deploy customizable AI agents with multi-LLM support, real-time chat, voice, document training, analytics, user management, SSO authentication, and embeddable widgets. Built with React 19, Redux Toolkit, Radix UI, and Tailwind CSS.
+
+![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![License: MIT](https://img.shields.io/badge/License-MIT-22C55E?style=flat-square)
+
+#### [`lms`](https://github.com/iblai/lms) — Agentic LMS
+
+Skills intelligence platform — discover courses, track competencies, earn credentials, and accelerate workforce development. Built with Next.js 15, React 19, and the ibl.ai SDK.
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![License: MIT](https://img.shields.io/badge/License-MIT-22C55E?style=flat-square)
+
 #### [`vibe`](https://github.com/iblai/vibe) — Vibe
 
 Developer toolkit for vibe coding AI apps on the ibl.ai platform. Scaffold a production-ready Next.js app with the `iblai-app-cli` and the `@iblai/iblai-js` SDK: SSO auth, AI chat, profiles, notifications, and analytics wired up out of the box. Pre-built components, Claude Code skills, and a hosted backend at iblai.app. Deploy in minutes.
@@ -70,28 +88,12 @@ Developer toolkit for vibe coding AI apps on the ibl.ai platform. Scaffold a pro
 ![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=flat-square)
 ![License: MIT](https://img.shields.io/badge/License-MIT-22C55E?style=flat-square)
 
-#### [`iblai-mcp`](https://github.com/iblai/iblai-mcp) — MCP Servers
+#### [`api`](https://github.com/iblai/api) — Platform API
 
-Model Context Protocol servers for ibl.ai — analytics, agent creation, agent chat, search, user management, and Canvas LMS integration. Connect any MCP-compatible AI client to the ibl.ai platform.
+Agent skills plus a chat MCP server to operate the ibl.ai platform via its REST API. Install with `npx skills add iblai/api` and drive the platform from any MCP-compatible AI client.
 
 ![MCP](https://img.shields.io/badge/Model_Context_Protocol-0057FF?style=flat-square)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![License: MIT](https://img.shields.io/badge/License-MIT-22C55E?style=flat-square)
-
-#### [`standard`](https://github.com/iblai/standard) — Agent Standard
-
-The `.iblai` agent file format — a portable Markdown spec for defining AI agents. Includes an interactive CLI wizard and a library of example agents you can deploy on the ibl.ai platform or anywhere else.
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Open Standard](https://img.shields.io/badge/Open_Standard-6B21A8?style=flat-square)
-![License: MIT](https://img.shields.io/badge/License-MIT-22C55E?style=flat-square)
-
-#### [`iblai-openclaw-router`](https://github.com/iblai/iblai-openclaw-router) — Model Router
-
-Route every request to the cheapest model that can handle it and save 70%+. A drop-in LLM router that keeps quality high while cutting inference cost across providers.
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![LLM Routing](https://img.shields.io/badge/LLM_Routing-6B21A8?style=flat-square)
+![REST API](https://img.shields.io/badge/REST_API-6B21A8?style=flat-square)
 ![License: MIT](https://img.shields.io/badge/License-MIT-22C55E?style=flat-square)
 
 #### [`claws`](https://github.com/iblai/claws) — Sector Claws
@@ -100,15 +102,6 @@ Ready-to-go claws (NVIDIA NemoClaw + OpenClaw) across multiple sectors — highe
 
 ![NemoClaw](https://img.shields.io/badge/NemoClaw-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![OpenClaw](https://img.shields.io/badge/OpenClaw-0057FF?style=flat-square)
-![License: MIT](https://img.shields.io/badge/License-MIT-22C55E?style=flat-square)
-
-#### [`claws-setup`](https://github.com/iblai/claws-setup) — Claws Setup
-
-Connect self-hosted OpenClaw and NemoClaw servers to the ibl.ai platform — server setup, Caddy TLS, and full API integration guides. Run your own AI agent infrastructure and manage it through ibl.ai's APIs and applications.
-
-![OpenClaw](https://img.shields.io/badge/OpenClaw-0057FF?style=flat-square)
-![NemoClaw](https://img.shields.io/badge/NemoClaw-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white)
 ![License: MIT](https://img.shields.io/badge/License-MIT-22C55E?style=flat-square)
 
 ---
